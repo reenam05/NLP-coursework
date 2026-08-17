@@ -1,7 +1,9 @@
-# Machine Learning Algorithm from scratch
+# NLP approaches: Exploring rule based and machine learning algorithms
  In this project, I had to independently research rule based and machine learning algorithms for different use cases. The aim was to learn which scenarios are best suited for a particular model.  
 
-To show my understanding, I stated assumptions that should be considered, the performance of the model, test cases to show the model works under different conditions and the explanation of my approaches.
+To show my understanding, I stated assumptions that should be considered, the performance of the model, test cases to show the model works under different conditions and the explanation of my approaches.  
+
+Achieved 70% on this coursework.
 
 ## Algorithms Implemented
 
